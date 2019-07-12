@@ -1,6 +1,6 @@
-# RIMGIM
+# Pylimma
 
-## RIMGIM-python3 based script to Illumina Hiseq data(ROKM) from GEO(GSE) database and perform Differential Expression Analysis. 
+## PYLIMMA-python3 based script to Illumina Hiseq data(ROKM) from GEO(GSE) database and perform Differential Expression Analysis. 
 
     Prerequisites
     
@@ -13,4 +13,4 @@
     
 ### Usage 
 
-Execute the RIMGIM.py script in the working directory where all the .gz RPKM raw files are present and follow the on terminal instructions.
+Execute the Pylimma.py script in the working directory where all the .gz RPKM raw files are present and follow the on terminal instructions.
